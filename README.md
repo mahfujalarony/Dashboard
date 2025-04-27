@@ -5,10 +5,13 @@
   <img src="./public/Screenshot_2.png" alt="Dashboard Preview" width="600"/>
 </p>
 
+## 📹 Google Drive Link
+
+🔗 [Click here to watch the demo video](https://drive.google.com/file/d/1pfC0zxuOIeeOfQhlX8Lw8deht-av1IzN/view?usp=sharing)
 ---
 
 ## 🚀 Live Demo
-🔗 [Live Website Link](https://your-vercel-project-link.vercel.app)
+🔗 [Live Website Link](https://dashboard-sigma-inky-99.vercel.app/)
 
 ---
 
